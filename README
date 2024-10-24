@@ -1,0 +1,7 @@
+My PlayGround Python
+
+1. Tools Detect A Record Using Xlsx Files In Linux
+```
+pip install openpyxl
+python dns-scan.py --input input.xlsx --output output.xlsx
+```
